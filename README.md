@@ -41,3 +41,6 @@ Controls: Left and right arrow to move left and right respectively.  z key or sp
 This folder contains various documents used in development of the game. the Llamas GDD is our game design document that discusses the game, how it was to operate, the assets to create fore the game and how they were to work. This was our primary guide to developing the game.
 
 The level design folder contains images that were used in designing the levels of the game. The tutorial, crew quarters and boss level were designed as is.  The warehouse level was slightly altered but still maintained the basic overall design that was intended for it. 
+
+### Unity Files Folder:
+This folder contains all of the data needed to open the project in Unity and look through the various scripts and scenes used(or in the end not used) in the development of this game.  The README.md folder will discuss how to succesfully download this section for replication.  
