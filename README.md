@@ -28,7 +28,7 @@ Spriter for animation.  https://brashmonkey.com/
 Unity for game creation. https://unity3d.com/
 
 ### Coding
-We used Visual studio 2016 and C# to script our game.  
+We used Visual studio 2015 and C# to script our game.  
 
 ## Content:
 
