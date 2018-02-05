@@ -36,3 +36,8 @@ We used Visual studio 2016 and C# to script our game.
 This is a demo of the game.  Merely download the zip file and unzip it. Then double click on Ianella.exe to run the game. Accept the default options as offered and play the game.
 
 Controls: Left and right arrow to move left and right respectively.  z key or spacebar to jump, x key to use the vibro blade, c key to fire the gun, e key to interact with objects to open the door. 
+
+### Documents Folder:
+This folder contains various documents used in development of the game. the Llamas GDD is our game design document that discusses the game, how it was to operate, the assets to create fore the game and how they were to work. This was our primary guide to developing the game.
+
+The level design folder contains images that were used in designing the levels of the game. The tutorial, crew quarters and boss level were designed as is.  The warehouse level was slightly altered but still maintained the basic overall design that was intended for it. 
