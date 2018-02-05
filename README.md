@@ -29,3 +29,10 @@ Unity for game creation. https://unity3d.com/
 
 ### Coding
 We used Visual studio 2016 and C# to script our game.  
+
+## Content:
+
+### Ianella.zip
+This is a demo of the game.  Merely download the zip file and unzip it. Then double click on Ianella.exe to run the game. Accept the default options as offered and play the game.
+
+Controls: Left and right arrow to move left and right respectively.  z key or spacebar to jump, x key to use the vibro blade, c key to fire the gun, e key to interact with objects to open the door. 
