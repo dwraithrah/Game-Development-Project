@@ -12,4 +12,4 @@ Open  Unity then navigate to the folder you have created. Unity should detect an
 
 # Scripts:
 
-If you're interested in looking at the scripts, they will be located in Assets/Scripts of Assets/Tile Engine/Scripts. They were writting in C# using Visual studio 2015, Unity, or notepad.   
+If you're interested in looking at the scripts, they will be located in Assets/Scripts of Assets/Tile Engine/Scripts. They were written in C# using Visual studio 2015, Unity, or notepad.   
